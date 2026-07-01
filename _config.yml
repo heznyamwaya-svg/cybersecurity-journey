@@ -1,0 +1,11 @@
+title: Hesbon Nyamweya
+description: Aspiring Cybersecurity Expert | Building Africa's Future in Cyber Defense
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+show_downloads: false
+github_username: hebznyamwaya-svg
+
+# Custom colors (optional)
+# You can customize more later
