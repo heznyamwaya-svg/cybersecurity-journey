@@ -6,14 +6,11 @@
 
 ## A
 
-**AI-Powered Attacks**  
-Cyberattacks that leverage artificial intelligence and machine learning to automate reconnaissance, evade detection, or craft more convincing phishing emails.
+**AI-Powered Attacks**: Cyberattacks that leverage artificial intelligence and machine learning to automate reconnaissance, evade detection, or craft more convincing phishing emails.
 
-**Attack Surface**  
-The total sum of all possible entry points, vulnerabilities, and attack vectors through which an unauthorized user could gain access to a system, network, or data.
+**Attack Surface**:The total sum of all possible entry points, vulnerabilities, and attack vectors through which an unauthorized user could gain access to a system, network, or data.
 
-**Attack Vector**  
-The specific pathway, method, or technique that a threat actor uses to gain unauthorized access to a target system (e.g., phishing email, exploited vulnerability, malicious USB drive).
+**Attack Vector**: The specific pathway, method, or technique that a threat actor uses to gain unauthorized access to a target system (e.g., phishing email, exploited vulnerability, malicious USB drive).
 
 **Authenticity**  
 One of the principles in the Parkerian Hexad. Refers to the assurance that a piece of data, message, or transaction is genuine and originated from its claimed source.
