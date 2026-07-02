@@ -260,6 +260,76 @@ Security model based on "never trust, always verify".
 A vulnerability unknown to the vendor with no patch available.
 
 ---
+## CATEGORIZED GLOSSARY
+For easier study, terms are grouped by category:
+
+### A. CORE PRINCIPLES & FRAMEWORKS
+- **CIA Triad** — Confidentiality, Integrity, Availability—the three fundamental security principles
+- **Confidentiality** — Ensuring data is only accessible to authorized individuals
+- **Integrity** — Ensuring data is accurate, complete, and untampered
+- **Availability** — Ensuring systems and data are accessible when needed
+- **Parkerian Hexad** — Extended security model adding Possession/Control, Authenticity, and Utility
+- **Possession/Control** — Ownership and control over data
+- **Authenticity** — Assurance that data is genuine and from the claimed source
+- **Utility** — The usefulness and usability of data
+- **Defense-in-Depth** — Layered security strategy with multiple defenses
+- **Least Privilege** — Granting only minimum necessary access
+- **Zero Trust** — "Never trust, always verify" security model
+- **Risk = Threat × Vulnerability × Impact** — The fundamental risk formula
+- **Risk Management** — Identifying, assessing, and mitigating risks
+
+### B. THREATS & ATTACKS
+- **Malware** — General term for malicious software
+- **Ransomware** — Malware that encrypts files and demands payment for decryption
+- **Phishing** — Deceptive messages designed to trick users into revealing information
+- **Social Engineering** — Manipulating people to perform actions or reveal information
+- **DDoS** — Distributed Denial of Service—overwhelming a system with traffic
+- **Supply Chain Attack** — Compromising a vendor or partner to breach the primary target
+- **Insider Threat** — Security risk originating from inside the organization
+- **AI-Powered Attacks** — Attacks using artificial intelligence for reconnaissance and evasion
+- **State-Sponsored Threats** — Nation-state cyber operations for espionage or disruption
+- **Mobile Money Fraud** — Fraud targeting mobile payment systems (African context)
+- **Telecom Attacks** — Attacks on telecommunications infrastructure (African context)
+- **Infrastructure Targeting** — Attacks on critical infrastructure like power and water
+
+### C. KEY TERMINOLOGY
+- **Attack Surface** — All possible entry points for an attacker
+- **Attack Vector** — The specific method used to breach a system
+- **Exploit** — Code or technique that leverages a vulnerability
+- **Vulnerability** — A weakness that can be exploited
+- **Payload** — The malicious component of an attack
+- **Zero-Day** — A vulnerability unknown to the vendor
+- **Threat** — An entity or action that can cause harm
+- **Impact** — The damage resulting from a successful attack
+- **Risk** — Threat × Vulnerability × Impact
+
+### D. DEFINITIONS & SCOPE
+- **Cybersecurity** — Protection of digital systems, networks, programs, and data
+- **Information Security** — Protection of all information assets (digital and physical)
+- **IT Security** — Protection of IT infrastructure specifically
+- **Digital Attacks** — Malicious attempts against digital systems
+- **Scope of Cybersecurity** — The breadth of what cybersecurity covers
+- **Field of Cybersecurity** — The overall discipline and profession
+- **Cybersecurity Market** — The industry and economy around cybersecurity
+
+### E. INDUSTRY & CAREER
+- **Career Opportunities** — Growing demand for cybersecurity professionals
+- **High-Level Responsibilities** — Strategic duties of cybersecurity professionals
+- **Major Players** — Key stakeholders (vendors, governments, attackers)
+- **Market Demand** — Need for cybersecurity services and professionals
+- **Growth of Cybersecurity Market** — Rapid expansion of the industry
+- **Business World Context** — Security as a business risk function
+- **Realistic Expectations** — Understanding what a cybersecurity career entails
+
+### F. GLOBAL & AFRICAN CONTEXT
+- **Global Threat Landscape** — Worldwide pattern of cyber threats
+- **Current Threat Trends (2026)** — Evolving threats like AI attacks and ransomware evolution
+- **Ransomware Evolution** — Progression from simple encryption to extortion models
+- **Mobile Money Fraud** — African-specific threat targeting mobile payments
+- **Telecom Attacks** — African-specific threat targeting communications
+- **Infrastructure Targeting** — Attacks on critical national infrastructure
+
+---
 
 ## QUICK STUDY CARDS (Memorize These)
 
@@ -276,7 +346,8 @@ A vulnerability unknown to the vendor with no patch available.
 5. Supply Chain — attacks via vendors
 
 6. Insider — threats from within
-
+   
+---
 **Key Attack Terminology:**
 
 1. Attack Surface — all possible entry points
