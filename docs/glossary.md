@@ -261,37 +261,32 @@ A vulnerability unknown to the vendor with no patch available.
 
 ---
 
-**Quick Study Cards (Most Important for Topic 1)**
-
-**The Big 5 You Must Know:**
-1. **CIA Triad** = Confidentiality, Integrity, Availability
-2. **Risk** = Threat × Vulnerability × Impact
-3. **Defense-in-Depth** = Multiple layers of security
-4. **Least Privilege** = Minimum necessary access
-5. **Zero Trust** = Never trust, always verify
+## QUICK STUDY CARDS (Memorize These)
 
 **The Main Threat Types (Memorize These):**
-**Malware** — malicious software
 
-**Ransomware** — encrypts files for ransom
+1. Malware — malicious software
 
-**Phishing** — deceptive communications
+2. Ransomware — encrypts files for ransom
 
-**DDoS** — floods systems with traffic
+3. Phishing — deceptive communications
 
-**Supply Chain** — attacks via vendors
+4. DDoS — floods systems with traffic
 
-**Insider** — threats from within
+5. Supply Chain — attacks via vendors
+
+6. Insider — threats from within
 
 **Key Attack Terminology:**
-**Attack Surface** — all possible entry points
 
-**Attack Vector** — the method used
+1. Attack Surface — all possible entry points
 
-**Exploit** — code leveraging vulnerability
+2. Attack Vector — the method used
 
-**Payload** — the malicious component
+3. Exploit — code leveraging vulnerability
 
-**Vulnerability** — a weakness to be exploited
+4. Payload — the malicious component
 
-**Zero-Day** — unknown vulnerability
+5. Vulnerability — a weakness to be exploited
+
+6. Zero-Day — unknown vulnerability
