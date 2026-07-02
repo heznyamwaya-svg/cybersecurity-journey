@@ -271,7 +271,7 @@ For easier study, terms are grouped by category:
 
 ---
 
-## QUICK STUDY CARDS (Memorize These)
+## QUICK STUDY CARDS 
 
 **The Big 5 You Must Know:**
 
@@ -285,7 +285,7 @@ For easier study, terms are grouped by category:
 
 5. **Least Privilege** = Minimum necessary access
 
-**The Main Threat Types (Memorize These):**
+**The Main Threat Types:**
 
 1. **Malware** — malicious software
 
