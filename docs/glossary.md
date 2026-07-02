@@ -1,4 +1,5 @@
-# Topic 1 - Introduction to Cybersecurity: Glossary
+## Topic 1 - Introduction to Cybersecurity 
+# Glossary
 
 **Last Updated**: July 02, 2026
 
