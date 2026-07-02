@@ -333,31 +333,42 @@ For easier study, terms are grouped by category:
 
 ## QUICK STUDY CARDS (Memorize These)
 
+**The Big 5 You Must Know:**
+
+1. **CIA Triad** = Confidentiality, Integrity, Availability
+
+2. **Risk** = Threat × Vulnerability × Impact
+
+3. **Zero Trust** = Never trust, always verify
+
+4. **Defense-in-Depth** = Multiple layers of security
+
+5. **Least Privilege** = Minimum necessary access
+
 **The Main Threat Types (Memorize These):**
 
-1. Malware — malicious software
+1. **Malware** — malicious software
 
-2. Ransomware — encrypts files for ransom
+2. **Ransomware** — encrypts files for ransom
 
-3. Phishing — deceptive communications
+3. **Phishing** — deceptive communications
 
-4. DDoS — floods systems with traffic
+4. **DDoS** — floods systems with traffic
 
-5. Supply Chain — attacks via vendors
+5. **Supply Chain** — attacks via vendors
 
-6. Insider — threats from within
-   
----
+6. **Insider** — threats from within
+
 **Key Attack Terminology:**
 
-1. Attack Surface — all possible entry points
+1. **Attack Surface** — all possible entry points
 
-2. Attack Vector — the method used
+2. **Attack Vector** — the method used
 
-3. Exploit — code leveraging vulnerability
+3. **Exploit** — code leveraging vulnerability
 
-4. Payload — the malicious component
+4. **Payload** — the malicious component
 
-5. Vulnerability — a weakness to be exploited
+5. **Vulnerability** — a weakness to be exploited
 
-6. Zero-Day — unknown vulnerability
+6. **Zero-Day** — unknown vulnerability
