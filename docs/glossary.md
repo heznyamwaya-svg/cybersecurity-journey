@@ -271,7 +271,7 @@ For easier study, terms are grouped by category:
 - **Infrastructure Targeting** — Attacks on critical national infrastructure
 
 ---
-## DEFINITIONS VS. VIRUSES / RANSOMWARE (Critical Distinction)
+## DEFINITIONS VS. VIRUSES / RANSOMWARE 
 
 | Concept       | Definition                                                                 | Example                                      |
 |---------------|----------------------------------------------------------------------------|----------------------------------------------|
