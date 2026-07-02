@@ -372,3 +372,8 @@ For easier study, terms are grouped by category:
 5. **Vulnerability** — a weakness to be exploited
 
 6. **Zero-Day** — unknown vulnerability
+---
+**How to Use This Glossary:**
+- Add new terms in alphabetical order as you learn them
+- Feel free to expand definitions with examples
+- Update this file regularly
