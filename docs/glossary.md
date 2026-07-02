@@ -269,3 +269,29 @@ A vulnerability unknown to the vendor with no patch available.
 3. **Defense-in-Depth** = Multiple layers of security
 4. **Least Privilege** = Minimum necessary access
 5. **Zero Trust** = Never trust, always verify
+
+**The Main Threat Types (Memorize These):**
+**Malware** — malicious software
+
+**Ransomware** — encrypts files for ransom
+
+**Phishing** — deceptive communications
+
+**DDoS** — floods systems with traffic
+
+**Supply Chain** — attacks via vendors
+
+**Insider** — threats from within
+
+**Key Attack Terminology:**
+**Attack Surface** — all possible entry points
+
+**Attack Vector** — the method used
+
+**Exploit** — code leveraging vulnerability
+
+**Payload** — the malicious component
+
+**Vulnerability** — a weakness to be exploited
+
+**Zero-Day** — unknown vulnerability
