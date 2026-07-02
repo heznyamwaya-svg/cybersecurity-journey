@@ -271,7 +271,18 @@ For easier study, terms are grouped by category:
 - **Infrastructure Targeting** — Attacks on critical national infrastructure
 
 ---
+## DEFINITIONS VS. VIRUSES / RANSOMWARE (Critical Distinction)
 
+| Concept       | Definition                                                                 | Example                                      |
+|---------------|----------------------------------------------------------------------------|----------------------------------------------|
+| **Threat**    | Any entity that can cause harm                                             | A hacker, a piece of malware, a natural disaster |
+| **Vulnerability** | A weakness that can be exploited                                        | An unpatched system, weak password, misconfiguration |
+| **Risk**      | The likelihood of a threat exploiting a vulnerability and causing harm     | The risk of ransomware infection on an unpatched server |
+| **Virus**     | A type of malware that replicates by inserting itself into other files     | Macro virus in Word documents                |
+| **Ransomware**| A specific type of malware that encrypts files for ransom                  | LockBit, BlackCat, REvil                     |
+| **Phishing**  | A social engineering technique, not malware itself                         | Email pretending to be from a bank           |
+| **Exploit**   | The code that takes advantage of a vulnerability                           | An exploit for a zero-day vulnerability      |
+---
 ## QUICK STUDY CARDS 
 
 **The Big 5 You Must Know:**
